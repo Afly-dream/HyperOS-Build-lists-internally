@@ -11,3 +11,5 @@ _建议使用MarkDown编辑器（建议使用Typora）！_
 ## 完成
 现在你可以查看您手机最近的内部构建版本了！ 
 _需要自行寻找文件中的设备版本_
+## 维基（用前必看）
+- 跳转[Wiki](https://github.com/Afly-dream/HyperOS-Build-lists-internally/wiki/Dream%E2%80%90HyperOS%E2%80%90Wiki)
